@@ -1,0 +1,3 @@
+[proxies]
+bkk10 = { target = "172.16.10.1", port = 22 }
+bkk20 = { target = "172.16.20.1", port = 22 }
